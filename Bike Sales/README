@@ -9,7 +9,7 @@ Dashboard: Visual representations of the data analysis for easy interpretation.
 Data Cleaning and Transformation:
 Initial Data Import:
 
-The raw data was imported from the "Excel Project Dataset (1).xlsx" file.
+The raw data was imported from the "Excel Project Dataset.xlsx" file.
 Data Cleaning Steps:
 
 Removal of Duplicates: Duplicate records were identified and removed to ensure data accuracy.
